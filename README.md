@@ -106,7 +106,6 @@ To install the LearnNow platform, follow these steps:
 
 ## Preview
 
-You can preview the LearnNow platform at [https://LearnNow-frontend.vercel.app/](https://study-notion-seven-nu.vercel.app/)
 
 [![Study Notion](https://i.ibb.co/qgS4v33/work1.png)](https://study-notion-seven-nu.vercel.app/)
 
